@@ -1,0 +1,22 @@
+{
+  "name": "3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "18.16.0"
+  },
+  "scripts": {
+    "dev": "npx vite index.html",
+    "build": "npx vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.156.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
