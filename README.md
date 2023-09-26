@@ -9,5 +9,10 @@ npm install
 To run:
 
 ```bash
-npx vite index.html
+npx vite dev
+```
+To build:
+
+```bash
+npx vite dev
 ```

@@ -7,7 +7,7 @@
     "node": "16.19.0"
   },
   "scripts": {
-    "dev": "npx vite index.html",
+    "dev": "npx vite dev",
     "build": "npx vite build"
   },
   "author": "",
